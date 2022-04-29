@@ -1,3 +1,4 @@
+-- movie data
 INSERT INTO movies (movie_name)
 VALUES 
 ("Lion King"),
@@ -6,6 +7,7 @@ VALUES
 ("Parasite"),
 ("The Wizard of Oz");
 
+-- reviews data 
 INSERT INTO reviews (movie_id, review)
 VALUES 
 (1, "Best movie of all time."),
