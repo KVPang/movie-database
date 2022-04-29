@@ -1,3 +1,4 @@
+//  express and mysql2 npm packages
 const express = require('express');
 const mysql = require('mysql2');
 
@@ -16,5 +17,16 @@ const db = mysql.createConnection(
     },
     console.log(`Connected to the movies_db database.`)
   );
+
+//  create a movie 
+
+
+//  read movies
+
+//  delete movie 
+
+//  update a review 
+
+//  404 request 
 
   
