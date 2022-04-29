@@ -1,15 +1,15 @@
 INSERT INTO movies (movie_name)
 VALUES 
-("Godzilla"),
-("Superman"),
-("Batman"),
-("Harry Potter"),
-("Sonic"),
+("Lion King"),
+("The Godfather"),
+("West Side Story"),
+("Parasite"),
+("The Wizard of Oz");
 
 INSERT INTO reviews (movie_id, review)
 VALUES 
-(1, "Action packed!"),
-(2, "Superman saves the day!"),
-(3, "Amazing!"),
-(4, "Well written!"),
-(5, "Great family movie."),
+(1, "Best movie of all time."),
+(2, "Great movie."),
+(3, "I don't remember."),
+(4, "Watching this movie made me realize there is no god."),
+(5, "Fun movie, but the mom reminded me of my mom and that felt weird.");
